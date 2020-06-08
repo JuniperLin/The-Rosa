@@ -446,6 +446,12 @@ footer {
   color: var(--sencondary-font-color);
 }
 
+.newsletter-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .newsletter-form {
   width: 100%;
   position: relative;
